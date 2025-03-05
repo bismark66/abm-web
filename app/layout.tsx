@@ -13,6 +13,21 @@ export const metadata: Metadata = {
   title: "Abm Courier - Fast & Reliable Delivery Services",
   description:
     "Professional courier services with reliable, fast, and affordable delivery solutions for businesses and individuals.",
+  icons: {
+    icon: [
+      {
+        url: "/assets/abm1.png",
+        href: "/assets/abm1.png",
+      },
+    ],
+    apple: [
+      {
+        url: "/assets/favicon.ico",
+        sizes: "180x180",
+        type: "image/png",
+      },
+    ],
+  },
 };
 
 export default function RootLayout({
