@@ -10,7 +10,7 @@ const montserrat = Montserrat({
 });
 
 export const metadata: Metadata = {
-  title: "SwiftCourier - Fast & Reliable Delivery Services",
+  title: "Abm Courier - Fast & Reliable Delivery Services",
   description:
     "Professional courier services with reliable, fast, and affordable delivery solutions for businesses and individuals.",
 };
